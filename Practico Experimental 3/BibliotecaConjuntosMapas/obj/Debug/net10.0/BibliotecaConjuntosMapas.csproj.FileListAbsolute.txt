@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Desktop\UEA3\ESTRUCTURA DE DATOS\PRACTICO EXPERIMENTAL\Practico Experimental 3\BibliotecaConjuntosMapas\bin\Debug\net10.0\BibliotecaConjuntosMapas.exe
+C:\Users\USUARIO\Desktop\UEA3\ESTRUCTURA DE DATOS\PRACTICO EXPERIMENTAL\Practico Experimental 3\BibliotecaConjuntosMapas\bin\Debug\net10.0\BibliotecaConjuntosMapas.deps.json
+C:\Users\USUARIO\Desktop\UEA3\ESTRUCTURA DE DATOS\PRACTICO EXPERIMENTAL\Practico Experimental 3\BibliotecaConjuntosMapas\bin\Debug\net10.0\BibliotecaConjuntosMapas.runtimeconfig.json
+C:\Users\USUARIO\Desktop\UEA3\ESTRUCTURA DE DATOS\PRACTICO EXPERIMENTAL\Practico Experimental 3\BibliotecaConjuntosMapas\bin\Debug\net10.0\BibliotecaConjuntosMapas.dll
+C:\Users\USUARIO\Desktop\UEA3\ESTRUCTURA DE DATOS\PRACTICO EXPERIMENTAL\Practico Experimental 3\BibliotecaConjuntosMapas\bin\Debug\net10.0\BibliotecaConjuntosMapas.pdb
+C:\Users\USUARIO\Desktop\UEA3\ESTRUCTURA DE DATOS\PRACTICO EXPERIMENTAL\Practico Experimental 3\BibliotecaConjuntosMapas\obj\Debug\net10.0\BibliotecaConjuntosMapas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\UEA3\ESTRUCTURA DE DATOS\PRACTICO EXPERIMENTAL\Practico Experimental 3\BibliotecaConjuntosMapas\obj\Debug\net10.0\BibliotecaConjuntosMapas.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\UEA3\ESTRUCTURA DE DATOS\PRACTICO EXPERIMENTAL\Practico Experimental 3\BibliotecaConjuntosMapas\obj\Debug\net10.0\BibliotecaConjuntosMapas.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\UEA3\ESTRUCTURA DE DATOS\PRACTICO EXPERIMENTAL\Practico Experimental 3\BibliotecaConjuntosMapas\obj\Debug\net10.0\BibliotecaConjuntosMapas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\UEA3\ESTRUCTURA DE DATOS\PRACTICO EXPERIMENTAL\Practico Experimental 3\BibliotecaConjuntosMapas\obj\Debug\net10.0\BibliotecaConjuntosMapas.dll
+C:\Users\USUARIO\Desktop\UEA3\ESTRUCTURA DE DATOS\PRACTICO EXPERIMENTAL\Practico Experimental 3\BibliotecaConjuntosMapas\obj\Debug\net10.0\refint\BibliotecaConjuntosMapas.dll
+C:\Users\USUARIO\Desktop\UEA3\ESTRUCTURA DE DATOS\PRACTICO EXPERIMENTAL\Practico Experimental 3\BibliotecaConjuntosMapas\obj\Debug\net10.0\BibliotecaConjuntosMapas.pdb
+C:\Users\USUARIO\Desktop\UEA3\ESTRUCTURA DE DATOS\PRACTICO EXPERIMENTAL\Practico Experimental 3\BibliotecaConjuntosMapas\obj\Debug\net10.0\BibliotecaConjuntosMapas.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\UEA3\ESTRUCTURA DE DATOS\PRACTICO EXPERIMENTAL\Practico Experimental 3\BibliotecaConjuntosMapas\obj\Debug\net10.0\ref\BibliotecaConjuntosMapas.dll
